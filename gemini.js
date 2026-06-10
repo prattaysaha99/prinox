@@ -1,5 +1,5 @@
 // --- SYSTEM CONFIGURATION ---
-const SYSTEM_API_KEY = "AQ.Ab8RN6JJ1KuuqC2iLU3Fjz_tb1XTIWm9bw-GxyoIaflZKnPj0A";
+const SYSTEM_API_KEY = "AQ.Ab8RN6InEsenopwDst0r_7P0fC6uQkdu6PXg0yz3QI734lhsgQ";
 
 // --- PRINOX AI PERSONA INSTRUCTION (TEXT MODE) ---
 const SYSTEM_INSTRUCTION = `You are PRINOX AI, a highly specialized engineering assistant created EXCLUSIVELY by Mr. Prinan Saha.
